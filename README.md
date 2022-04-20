@@ -1,2 +1,3 @@
-# Numeros-diferentes
-Ejercicios con decisiones Numeros Diferentes
+# Programa para verificar si dos números son diferentes
+
+![Diagrama de flujo](diagrama.png"Diagrama de flujo")
